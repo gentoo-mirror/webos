@@ -1,0 +1,13 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	flag-o-matic	c9602887773166fe300444712fc7ff98	versionator	cd0bcdb170807e4a1984115e9d53a26f	multilib	62927b3db3a589b0806255f3a002d5d3	webos-cmake	664162f6fa4545261005755bdadd46c3	cmake-utils	430c386d85cec959d72640afd63ea91	webos-github	4a0ea0b3bf1b901bc56d6224d6ad50b1	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=1db629a85c2781c2612891a50853d69d
+SLOT=0
+DEFINED_PHASES=compile configure install prepare setup test
+EAPI=5
+DEPEND=dev-libs/lemon sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) dev-util/cmake-modules-webos
+DESCRIPTION=A JSON engine, implemented as a pair of libraries with APIs for easier C and C++ abstraction over the core PBNJSON library.
+LICENSE=Apache2
+IUSE=nolog
+SRC_URI=https://github.com/openwebos/libpbnjson/archive/submissions/38.zip -> libpbnjson-38.0.zip
+KEYWORDS=x86 amd64
+HOMEPAGE=https://github.com/openwebos/libpbnjson
+RDEPEND=>=dev-libs/glib-2.30 dev-libs/gmp dev-libs/uriparser dev-libs/yajl

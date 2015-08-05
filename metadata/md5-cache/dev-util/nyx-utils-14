@@ -1,0 +1,11 @@
+_eclasses_=toolchain-funcs	42408102d713fbad60ca21349865edb4	flag-o-matic	c9602887773166fe300444712fc7ff98	multilib	62927b3db3a589b0806255f3a002d5d3	webos-cmake	664162f6fa4545261005755bdadd46c3	cmake-utils	430c386d85cec959d72640afd63ea91	eutils	9fb270e417e0e83d64ca52586c4a79de
+_md5_=4c02e13db331e6c3b11e28eb2bbbc127
+SLOT=0
+DEFINED_PHASES=compile configure install prepare test
+EAPI=5
+DEPEND=dev-libs/glib dev-libs/nyx-lib sys-devel/make >=dev-util/cmake-2.8.12 userland_GNU? ( >=sys-apps/findutils-4.4.0 ) dev-util/cmake-modules-webos
+DESCRIPTION=Utility to invoke nyx library device type commands.
+LICENSE=LGPL-2.1
+SRC_URI=https://github.com/openwebos/nyx-utils/archive/submissions/14.zip -> nyx-utils-14.zip
+KEYWORDS=amd64
+HOMEPAGE=https://github.com/openwebos/nyx-utils
