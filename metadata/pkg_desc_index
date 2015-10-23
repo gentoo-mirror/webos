@@ -12,7 +12,7 @@ dev-libs/nyx-lib 69 69.1 70: Open webOS Platform Portability Layer
 dev-libs/nyx-modules 93 93.1 97 97.1: Open webOS portability layer - device specific modules
 dev-libs/pmloglib 53 53.1 53.2 56: The Open webOS logging library
 dev-libs/restcgi++ 9999: Rest FastCGI C++ framework
-dev-util/cmake-modules-webos 19 19.1 19.2: CMake modules needed to build Open webOS components
+dev-util/cmake-modules-webos 19 19.1 19.2 19.3: CMake modules needed to build Open webOS components
 dev-util/nyx-utils 14 14.1 19: Utility to invoke nyx library device type commands.
 net-misc/luna-prefs 7: Open webOS Luna System Bus library, daemon, and utilities
 net-misc/novacom 18: novacom provides a command line interface to the novacomd daemon.
