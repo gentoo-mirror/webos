@@ -9,6 +9,7 @@ dev-libs/lemon 3.6.23.1: A LALR(1) parser generator.
 dev-libs/libpalmsocket 32: C library for asynchronous network sockets
 dev-libs/libpbnjson 38.0 52 9999: Palm's Better Native JSON library
 dev-libs/librolegen 21: librolegen dynamically generates webOS system bus role files for webOS Javascript services.
+dev-libs/libsandbox 16: libsandbox is a collection of APIs for separating running programs
 dev-libs/nyx-lib 69.1 70: Open webOS Platform Portability Layer
 dev-libs/nyx-modules 93.1 97 97.1: Open webOS portability layer - device specific modules
 dev-libs/pmloglib 56: The Open webOS logging library
