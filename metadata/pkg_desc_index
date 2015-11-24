@@ -1,24 +1,24 @@
-dev-db/configurator 59.2: 
-dev-db/db8 138.2 140: 
-dev-db/indb8 119 202 203 204 9999: 
-dev-db/leveldb-tl 0.1.5 0.1.6 9999: 
-dev-libs/cjson 35.1 36: 
-dev-libs/cpp-netlib 0.11.1 9999: 
-dev-libs/fastcgi++ 2.1: 
+dev-db/configurator 59.2: Creates the database schema for webos Applications
+dev-db/db8 138.2 140: A userspace service that provides access to the openWebOS database
+dev-db/indb8 119 202 203 204 9999: A userspace service that provides access to the Open webOS database
+dev-db/leveldb-tl 0.1.5 0.1.6 9999: Template library to build a more complex storage schema with leveldb as a backend
+dev-libs/cjson 35.1 36: Cjson library for webos
+dev-libs/cpp-netlib 0.11.1 9999: A collection of open-source libraries for high level network programming..
+dev-libs/fastcgi++ 2.1: FastCGI++ C++ framework
 dev-libs/lemon 3.6.23.1: A LALR(1) parser generator.
-dev-libs/libpalmsocket 32: 
-dev-libs/libpbnjson 38.0 52 9999: 
-dev-libs/librolegen 21: 
-dev-libs/libsandbox 16: 
-dev-libs/nyx-lib 69.1 70: 
-dev-libs/nyx-modules 93.1 97 97.1: 
-dev-libs/pmloglib 56: 
-dev-libs/pmstatemachineengine 13: 
-dev-libs/restcgi++ 9999: 
-dev-util/cmake-modules-webos 19.4 30: 
-dev-util/nyx-utils 14.1 19: 
-net-misc/luna-prefs 7: 
-net-misc/novacom 18: 
-net-misc/novacomd 124.4: 
-sys-process/activitymanager 123.1: 
-sys-process/luna-service2 195.0 200.0 244 9999: 
+dev-libs/libpalmsocket 32: C library for asynchronous network sockets
+dev-libs/libpbnjson 38.0 52 9999: Palm's Better Native JSON library
+dev-libs/librolegen 21: librolegen dynamically generates webOS system bus role files for webOS Javascript services.
+dev-libs/libsandbox 16: libsandbox is a collection of APIs for separating running programs
+dev-libs/nyx-lib 69.1 70: Open webOS Platform Portability Layer
+dev-libs/nyx-modules 93.1 97 97.1: Open webOS portability layer - device specific modules
+dev-libs/pmloglib 56: The Open webOS logging library
+dev-libs/pmstatemachineengine 13: Open webOS component for implementing finite state machine
+dev-libs/restcgi++ 9999: Rest FastCGI C++ framework
+dev-util/cmake-modules-webos 19.4 30: CMake modules needed to build Open webOS components
+dev-util/nyx-utils 14.1 19: Utility to invoke nyx library device type commands.
+net-misc/luna-prefs 7: Open webOS Luna System Bus library, daemon, and utilities
+net-misc/novacom 18: novacom provides a command line interface to the novacomd daemon.
+net-misc/novacomd 124.4: Utility to communicate with a target device over USB or TCP/IP.
+sys-process/activitymanager 123.1: Open webOS component to manage all running activities.
+sys-process/luna-service2 195.0 200.0 244 9999: Open webOS Luna System Bus library, daemon, and utilities
