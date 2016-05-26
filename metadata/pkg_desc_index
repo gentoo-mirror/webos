@@ -15,7 +15,7 @@ dev-libs/nonius 1.1.2: Nonius is a framework for benchmarking small snippets of 
 dev-libs/nyx-lib 69.1 70: Open webOS Platform Portability Layer
 dev-libs/nyx-modules 93.1 97 97.1: Open webOS portability layer - device specific modules
 dev-libs/pmlogctl 17: Open webOS logging control application
-dev-libs/pmloglib 56 56-r1 56-r2: The Open webOS logging library
+dev-libs/pmloglib 56-r1 56-r2: The Open webOS logging library
 dev-libs/pmstatemachineengine 13: Open webOS component for implementing finite state machine
 dev-libs/restcgi++ 9999: Rest FastCGI C++ framework
 dev-util/cmake-modules-webos 19.4 30: CMake modules needed to build Open webOS components
