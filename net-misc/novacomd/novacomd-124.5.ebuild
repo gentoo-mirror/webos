@@ -10,7 +10,7 @@ KEYWORDS="x86 amd64"
 LICENSE="Apache-2.0"
 IUSE="upstart"
 
-DEPEND="dev-libs/libusb"
+DEPEND="virtual/libusb:0"
 
 PATCHES=( "${FILESDIR}/0011-Fix-USB-read-write-operations.patch" "${FILESDIR}/0011-Remove-verbose-output.patch" )
 
