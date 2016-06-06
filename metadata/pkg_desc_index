@@ -23,6 +23,6 @@ dev-util/cmake-modules-webos 19.4 30: CMake modules needed to build Open webOS c
 dev-util/nyx-utils 14.1 19: Utility to invoke nyx library device type commands.
 net-misc/luna-prefs 7: Open webOS Luna System Bus library, daemon, and utilities
 net-misc/novacom 18: novacom provides a command line interface to the novacomd daemon.
-net-misc/novacomd 124.4: Utility to communicate with a target device over USB or TCP/IP.
+net-misc/novacomd 124.5: Utility to communicate with a target device over USB or TCP/IP.
 sys-process/activitymanager 123.1: Open webOS component to manage all running activities.
 sys-process/luna-service2 195.0 200.0 244 9999: Open webOS Luna System Bus library, daemon, and utilities
