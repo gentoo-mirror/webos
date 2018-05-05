@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=libsandbox is a collection of APIs for separating running programs
 EAPI=5

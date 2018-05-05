@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=>=dev-util/cmake-modules-webos-21 dev-libs/lemon sys-devel/flex dev-libs/boost sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=Palm's Better Native JSON library
 EAPI=5

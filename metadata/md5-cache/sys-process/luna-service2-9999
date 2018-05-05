@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test unpack
+DEFINED_PHASES=compile configure install nofetch prepare setup test unpack
 DEPEND=dev-util/cmake-modules-webos sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos >=dev-vcs/git-1.8.2.1
 DESCRIPTION=Open webOS Luna System Bus library, daemon, and utilities
 EAPI=5

@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=net-dns/c-ares dev-libs/pmstatemachineengine dev-libs/glib dev-libs/pmloglib sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=C library for asynchronous network sockets
 EAPI=5

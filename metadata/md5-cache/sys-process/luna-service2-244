@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=>=dev-util/cmake-modules-webos-30 sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=Open webOS Luna System Bus library, daemon, and utilities
 EAPI=5

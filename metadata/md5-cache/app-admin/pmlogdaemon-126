@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=dev-libs/pmloglib:public dev-libs/pmloglib:private dev-libs/librdx-stub sys-process/luna-service2 >=sys-libs/zlib-1.2.3 sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=The Open WebOS logging daemon implementation
 EAPI=5

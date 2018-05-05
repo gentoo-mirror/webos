@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=dev-libs/glib dev-libs/libpbnjson parseonly? ( dev-libs/nyx-lib ) sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=The Open webOS logging library, private interface
 EAPI=5

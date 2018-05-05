@@ -1,4 +1,4 @@
-DEFINED_PHASES=compile configure install prepare setup test
+DEFINED_PHASES=compile configure install nofetch prepare setup test
 DEPEND=dev-db/leveldb-tl dev-libs/glib dev-libs/pmloglib dev-libs/libpbnjson dev-libs/icu sys-process/luna-service2 !!dev-db/indb8 sys-devel/make >=dev-util/cmake-3.9.6 dev-util/cmake-modules-webos
 DESCRIPTION=A userspace service that provides access to the openWebOS database
 EAPI=5
