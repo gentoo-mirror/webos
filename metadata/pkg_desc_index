@@ -4,20 +4,17 @@ dev-db/db8 138.2 140: A userspace service that provides access to the openWebOS 
 dev-db/indb8 119 202 203 204: A userspace service that provides access to the Open webOS database
 dev-db/leveldb-tl 0.1.5 0.1.6: Template library to build a more complex storage schema with leveldb as a backend
 dev-libs/cjson 35.1 36: Cjson library for webos
-dev-libs/fastcgi++ 2.1: FastCGI++ C++ framework
 dev-libs/lemon 3.6.23.1: A LALR(1) parser generator.
 dev-libs/libpalmsocket 32: C library for asynchronous network sockets
 dev-libs/libpbnjson 38.0: Palm's Better Native JSON library
 dev-libs/librdx-stub 9: Stubbed implementation of the webOS Remote Diagnostics Library
 dev-libs/librolegen 21: librolegen dynamically generates webOS system bus role files for webOS Javascript services.
 dev-libs/libsandbox 16: libsandbox is a collection of APIs for separating running programs
-dev-libs/nonius 1.1.2: Nonius is a framework for benchmarking small snippets of C++ code
 dev-libs/nyx-lib 69.1 70: Open webOS Platform Portability Layer
 dev-libs/nyx-modules 93.1 97 97.1: Open webOS portability layer - device specific modules
 dev-libs/pmlogctl 17: Open webOS logging control application
 dev-libs/pmloglib 56-r1 56-r2: The Open webOS logging library
 dev-libs/pmstatemachineengine 13: Open webOS component for implementing finite state machine
-dev-libs/restcgi++ 9999: Rest FastCGI C++ framework
 dev-util/cmake-modules-webos 19.4: CMake modules needed to build Open webOS components
 dev-util/nyx-utils 14.1 19: Utility to invoke nyx library device type commands.
 net-misc/luna-prefs 7: Open webOS Luna System Bus library, daemon, and utilities
