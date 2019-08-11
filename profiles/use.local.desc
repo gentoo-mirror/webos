@@ -12,4 +12,5 @@ dev-db/indb8:test - Add unit test compilation
 dev-libs/libpbnjson:nolog - Compile withot logging support
 dev-libs/pmloglib:loggingon - Enable logging system by default
 dev-libs/pmloglib:parseonly - Include bool is_flash_official_build(void) function into pmloglib
+dev-libs/restcgi++:examples - Enable build of examples
 net-misc/novacomd:upstart - Install upstart script, disable install of openrc scripts
