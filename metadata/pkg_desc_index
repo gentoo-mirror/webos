@@ -5,7 +5,6 @@ dev-db/indb8 119 202 203 204 9999: A userspace service that provides access to t
 dev-db/leveldb-tl 0.1.5 0.1.6 9999: Template library to build complex storage schema with leveldb as a backend
 dev-libs/cjson 35.1 36: Cjson library for webos
 dev-libs/cpp-netlib 0.11.1 9999: A collection of open-source libraries for high level network programming..
-dev-libs/lemon 3.6.23.1: A LALR(1) parser generator.
 dev-libs/libpalmsocket 32: C library for asynchronous network sockets
 dev-libs/libpbnjson 38.0 52 9999: Palm's Better Native JSON library
 dev-libs/librdx-stub 9: Stubbed implementation of the webOS Remote Diagnostics Library
